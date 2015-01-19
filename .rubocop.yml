@@ -1,0 +1,18 @@
+
+LineLength:
+  Max: 999
+
+TrailingComma:
+  EnforcedStyleForMultiline: comma
+
+ClassLength:
+  Max: 300
+
+MethodLength:
+  Max: 30
+
+SingleSpaceBeforeFirstArg:
+  Enabled: false
+
+WordArray:
+  Enabled: false
